@@ -5,7 +5,7 @@
 Create file with .env name 
 
 ---Place the key generate by the moviedb.org inside the env file
-```
+
 VUE_APP_API_KEY=key code
 ```
 
